@@ -7,3 +7,5 @@ third 100 lines changed here
 fourth 100 lines of project
 
 fifth 100 lines of the project
+
+sixth 100 lines of command
